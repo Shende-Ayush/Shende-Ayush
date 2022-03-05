@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Shende 
 - 👀 I’m interested in Data science and machine learning 
-- 🌱 I’m currently learning DS and ML
+- 🌱 DS and ML
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me Ayushshende0131@gmail.com
 
